@@ -103,5 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-#secrets.js (API KEY) para que ignore el archivo secrets.js
+#secrets.js (API KEY) para que ignore el archivo secrets.js En la terminal se debe digitar git add .gitignore para que lo deje de trackear, luego git add -A  luego digitar git commit -m "comentario" y luego digitar git push
 src/secrets.js
